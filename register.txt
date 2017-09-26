@@ -1,1 +1,6 @@
 Register Form
+
+username:
+email:
+password:
+phone number:
