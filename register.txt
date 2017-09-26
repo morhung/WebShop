@@ -3,4 +3,7 @@ Register Form
 username:
 email:
 password:
+confirm password:
 phone number:
+birthday:
+
